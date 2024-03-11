@@ -1,0 +1,100 @@
+Latte, coffee, milk
+Chicken_wrap, wrap, mayo, chicken, avo, spinach
+Green smoothie, spinach, oats, chia-seeds, protein-powder, banana
+Berry smoothie, berries, oats, chia-seeds, protein-powder, banana, yoghurt
+Banana smoothie, peanut-butter, banana, chia-seeds, protein-powder, yoghurt
+Omelete, eggs, mushrooms, milk, spinach, garlic, tomatoes, feta
+Scrambbled eggs, eggs, mushrooms, milk, spinach, garlic, tomatoes, toast, avo
+Fried eggs, eggs, mushrooms, feta, toast, spinach, fried, tomato
+Muesli & yoghurt, muesli, yoghurt, berries, nuts
+Fruit salad, apple, banana, berries, citrus, yoghurt, chia-seeds, nuts, lemon-juice
+Pancakes, flour, eggs, milk, baking-powder, cacao-powder, honey, yoghurt, berries, banana
+Flap jacks, flour, eggs, milk, baking-powder, cacao-powder, honey, yoghurt, berries, banana
+Breakfast wrap, eggs, mushrooms, milk, spinach, garlic, tomatoes, feta, wrap
+Breakfast muffin, flour, egg, oil, mushrooms, spinach, feta, baking-powder
+Chicken burger, chicken, mayo, cucumber, tomato, spinach, roll, avocado
+Salmon Burger, salmon, mayo, cucumber, tomato, spinach, roll, avocado
+Beef Burger, beef, mayo, cucumber, tomato, spinach, roll, avocado
+Vegetarian burger, tomato, lettuce, cucumber, vegetarian-patty, roll, mayo
+Vegetarian pita, mushrooms	mayo, cucumber, tomato, spinach, pita, feta
+Chicken mayo sandwich, chicken, mayo, cucumber, tomato, spinach, rye-bread
+Tuna pasta, tuna, mayo, cucumber, tomato, spinach, pasta
+Vegetable noodles, noodles, edamame, spinach, mushrooms, peppers
+Salad, spinach, slaw, carrots, avo, olives, feta, tomato, cucumber, dressing
+Pea soup, peas, stock, peppers, onions, spring-onion
+Buddha bowl, chickpeas, slaw, seaweed, edamame, spring-onions, cucumber, tomato
+Poke bowl, edamame, smoked-salmon, vegetables, mango, pickled-vegetables, cured-ginger, soy-sauce
+Chicken salad, tomato, chicken, cucumber, spinach, carrots, avocado, feta, hummus
+Salmon salad, tomato, smoked-salmon, cucumber, spinach, carrots, avocado, feta, hummus
+Potato bake, bacon, boiled, potatoes, white-sauce, onions, chives, cheese
+Bean & Butternut curry, beans, butternut, curry-spice, pasta
+Poke bowl, edamame, cucmber, tomato, pickled-vegetables, smoked-salmon, cured-ginger, soy-sauce, avocado
+Butternut soup, butternut, stock, water, onions, leeks, celery, peppers, garlic, coconut cream
+Pea soup, peas, stock, water, onions, leeks, celery, peppers, garlic
+Quiche, puff-pastry, eggs, milk, bacon, mushrooms, marrows
+Quinoa & roasted vegetables, quinoa, cauliflower, brocoli, marrows, mustard, balsamic-vinegar
+Sweet potato and Kale quesadillas, wraps, sweet potato, kale, black-beans, garlic, chilli-powder, cumin, sour-cream
+Stuffed Peppers, peppers, onion, mushrooms, feta
+Ramen, noodles, stock, carrots, cabbage, garlic, mushrooms
+Cappuccino, coffee, milk
+Fruit Smoothie, mixed fruits, yogurt, honey
+Avocado Toast, bread, avocado, salt, pepper
+Greek Yogurt Parfait, Greek yogurt, granola, berries, honey
+Caprese Salad, tomatoes, mozzarella, basil, balsamic glaze
+Shakshuka, eggs, tomatoes, bell peppers, onions, garlic, spices
+Pesto Pasta, pasta, pesto sauce, cherry tomatoes, pine nuts
+Mango Salsa, mango, red onion, cilantro, lime juice
+Chicken Caesar Wrap, chicken, romaine lettuce, Caesar dressing, wrap
+Teriyaki Chicken Stir-Fry, chicken, broccoli, carrots, teriyaki sauce, rice
+Vegetable Omelette, eggs, bell peppers, onions, tomatoes, cheese
+Garlic Butter Shrimp, shrimp, garlic, butter, lemon, parsley
+Tomato Basil Bruschetta, tomatoes, basil, garlic, olive oil, baguette
+Hummus and Veggie Wrap, hummus, cucumber, bell peppers, spinach, wrap
+Cauliflower Fried Rice, cauliflower rice, peas, carrots, soy sauce, eggs
+Chicken Noodle Soup, chicken, noodles, carrots, celery, broth
+Pesto Chicken Salad, grilled chicken, mixed greens, cherry tomatoes, pesto
+Mushroom Risotto, Arborio rice, mushrooms, garlic, onion, Parmesan
+Chicken Quesadilla, chicken, cheese, tortilla, salsa, sour cream
+Sweet and Sour Tofu Stir-Fry, tofu, bell peppers, pineapple, sweet and sour sauce, rice
+Lemon Garlic Roasted Chicken, chicken, lemon, garlic, rosemary, olive oil
+Cheese and Tomato Panini, bread, cheese, tomatoes, butter
+Veggie Stir-Fry, mixed vegetables, tofu, soy sauce, ginger, garlic, rice
+Spinach and Feta Stuffed Chicken, chicken breasts, spinach, feta, garlic, olive oil
+Mediterranean Quinoa Salad, quinoa, cucumber, tomatoes, olives, feta, olive oil, lemon
+Chicken and Broccoli Alfredo, chicken, broccoli, fettuccine, Alfredo sauce
+BBQ Pulled Pork Sandwich, pulled pork, BBQ sauce, coleslaw, bun
+Tofu and Vegetable Curry, tofu, mixed vegetables, curry sauce, rice
+Caesar Salad, romaine lettuce, croutons, Parmesan, Caesar dressing
+Zucchini Noodles with Pesto, zucchini noodles, pesto sauce, cherry tomatoes, pine nuts
+Chicken Fajitas, chicken, bell peppers, onions, tortillas, salsa, sour cream
+Mango Chicken Salad, chicken, mango, mixed greens, red onion, vinaigrette
+Chickpea Salad, chickpeas, cucumber, cherry tomatoes, red onion, feta, olive oil
+Pumpkin Soup, pumpkin, broth, onions, garlic, cream, nutmeg
+Garlic Parmesan Roasted Vegetables, mixed vegetables, garlic, Parmesan, olive oil
+Crispy Baked Tofu, tofu, soy sauce, cornstarch, sesame oil
+Lentil Soup, lentils, carrots, celery, onions, garlic, broth
+Teriyaki Salmon, salmon, teriyaki sauce, sesame seeds, green onions
+Stuffed Mushrooms, mushrooms, cream cheese, garlic, breadcrumbs, parsley
+Eggplant Parmesan, eggplant, marinara sauce, mozzarella, Parmesan, breadcrumbs
+Vegetable Wrap, hummus, cucumber, bell peppers, spinach, wrap
+Chicken Pesto Pizza, pizza dough, chicken, pesto sauce, cherry tomatoes, mozzarella
+Homemade Sushi Rolls, sushi rice, nori, fish, avocado, cucumber, soy sauce, wasabi
+Garlic Herb Butter Shrimp, shrimp, garlic, herbs, butter, lemon
+Tomato Basil Soup, tomatoes, basil, onions, garlic, broth, cream
+Ratatouille, eggplant, zucchini, bell peppers, tomatoes, onions, garlic
+Shrimp and Broccoli Stir-Fry, shrimp, broccoli, soy sauce, garlic, ginger, rice
+Quinoa Stuffed Bell Peppers, quinoa, black beans, corn, tomatoes, cheese, bell peppers
+Spaghetti Bolognese, ground beef, tomatoes, onion, garlic, pasta, Parmesan
+Lemon Herb Grilled Chicken, chicken breasts, lemon, herbs, olive oil
+Vegetable Lasagna, lasagna noodles, ricotta cheese, spinach, marinara sauce, mozzarella
+Peach and Arugula Salad, peaches, arugula, feta cheese, balsamic vinaigrette
+Crispy Baked Salmon, salmon fillets, breadcrumbs, lemon, herbs
+Vegan Buddha Bowl, quinoa, chickpeas, roasted vegetables, avocado, tahini dressing
+Garlic Butter Steak, steak, garlic, butter, herbs
+Pesto Zoodles, zucchini noodles, pesto sauce, cherry tomatoes, pine nuts
+Mushroom and Spinach Quesadilla, mushrooms, spinach, cheese, tortilla
+Sesame Ginger Tofu Stir-Fry, tofu, broccoli, carrots, sesame ginger sauce, rice
+Cucumber Avocado Rolls, cucumber, avocado, cream cheese, smoked salmon
+Cajun Shrimp Pasta, shrimp, pasta, Cajun seasoning, cream sauce
+Baked Eggplant Parmesan, eggplant, breadcrumbs, marinara sauce, mozzarella, Parmesan
+Mango Coconut Rice Bowl, jasmine rice, mango, coconut milk, black beans, cilantro
